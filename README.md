@@ -1,1 +1,1 @@
-The Q1 file are located in \hw2\app\src\androidTest\java\com\example\hw2
+The Q1 file are located in hw2.1 \hw2\app\src\androidTest\java\com\example\hw2
